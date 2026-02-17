@@ -1,7 +1,7 @@
 ## あおく だよ
 
 ```py
-"*-_準備をしているだけ。ただ単に。_-*"
+"もう若干活動してる気がします"
 ```
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoku151&theme=aura)
